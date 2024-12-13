@@ -1,4 +1,11 @@
 ## Hi there 👋
+I'm Marta Piscitelli, an astroparticle physics student at the University of Tubingen.
+* Currently finishing a two months scholarship at the INFN (National institute for Nuclar Physics) in Frascati, Rome. Here I worked on the tuning of the $p-\Omega$ meson exchange potential with the ALICE experiment data. (see repo:)
+
+All my old repos are on my old github profile: https://github.com/martapisci
+* 🔭 I graduated from the Univeristy of Trento with a bachelor thesis on: (also repo here: )
+* I spent the first semester of the academic year 2022-2023 at the [University of Oslo](https://www.uio.no/english/) where I took the great Computational physics (FYS 3150) course.
+
 
 <!--
 **piscimarta/piscimarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
