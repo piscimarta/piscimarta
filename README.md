@@ -7,7 +7,7 @@ I'm Marta Piscitelli, an astro particle physics 🌌 master student, working at 
 ### Previous projects/Education:
 All my old repos are on my [old github profile](https://github.com/martapisci)
 * 🔭 I graduated from the Univeristy of Trento with a bachelor thesis on _Swift observations of the AGN: IRAS 13224-3809_. 
-* I spent the first semester of the academic year 2022-2023 at the [University of Oslo](https://www.uio.no/english/) where I took the great Computational physics 💻 (FYS 3150) course.
+* 🇳🇴 I spent the first semester of the academic year 2022-2023 at the [University of Oslo](https://www.uio.no/english/) where I took the great Computational physics 💻 (FYS 3150) course.
 
 
 <!--
