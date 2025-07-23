@@ -1,10 +1,10 @@
 ## Hi there 👋
-I'm Marta Piscitelli, an astroparticle physics 🌌 student at the University of Tubingen.
-* 📚 Currently writing my Master's thesis working on Numerical Relativity simulations in alternative theories of gravity, specifically scalar-Gauss-Bonnet using [GRChombo](https://github.com/GRTLCollaboration/GRChombo) and [GRFolres](https://github.com/GRTLCollaboration/GRFolres).
+I'm Marta Piscitelli, an astro particle physics 🌌 master student, working at  the University of Tubingen.
+* 📚 Currently writing my Master's thesis working on Numerical Relativity simulations in alternative theories of gravity, specifically scalar-Gauss-Bonnet using [GRChombo](https://github.com/GRTLCollaboration/GRChombo) and [GRFolres](https://github.com/GRTLCollaboration/GRFolres). 
 ### Some other research highlights:
-* ⚛️ I was awarded a two months scholarship at the INFN (National institute for Nuclar Physics) in Frascati, Rome. I worked on the tuning of the $p-\Omega$ meson exchange potential with the ALICE and STAR collaborations data. Soon submitting the results to Proceedings of science (PoS)!
+* ⚛️ I was awarded a two months scholarship at the INFN (National institute for Nuclar Physics) in Frascati, Rome. I worked on the tuning of a $p-\Omega$ meson exchange potential with the ALICE and STAR collaborations data. Soon submitting the results to Proceedings of science (PoS)!
 
-### Previous education projects:
+### Previous projects/Education:
 All my old repos are on my [old github profile](https://github.com/martapisci)
 * 🔭 I graduated from the Univeristy of Trento with a bachelor thesis on _Swift observations of the AGN: IRAS 13224-3809_. 
 * I spent the first semester of the academic year 2022-2023 at the [University of Oslo](https://www.uio.no/english/) where I took the great Computational physics 💻 (FYS 3150) course.
