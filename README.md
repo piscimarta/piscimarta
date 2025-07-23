@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Marta Piscitelli, an astro particle physics 🌌 master student, working at  the University of Tubingen.
+I'm Marta Piscitelli, an astro particle physics 🌌 master student, in the department of Theoretical Astrophysics at the University of Tubingen.
 * 📚 Currently writing my Master's thesis working on Numerical Relativity simulations in alternative theories of gravity, specifically scalar-Gauss-Bonnet using [GRChombo](https://github.com/GRTLCollaboration/GRChombo) and [GRFolres](https://github.com/GRTLCollaboration/GRFolres). 
 ### Some other research highlights:
 * ⚛️ I was awarded a two months scholarship at the INFN (National institute for Nuclar Physics) in Frascati, Rome. I worked on the tuning of a $p-\Omega$ meson exchange potential with the ALICE and STAR collaborations data. Soon submitting the results to Proceedings of science (PoS)!
