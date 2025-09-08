@@ -7,7 +7,7 @@ I'm Marta Piscitelli, an astro particle physics 🌌 master student, in the depa
 ### Previous projects/Education:
 All my old repos are on my [old github profile](https://github.com/martapisci)
 * 🔭 I graduated from the Univeristy of Trento with a bachelor thesis on _Swift observations of the AGN: IRAS 13224-3809_.
-* In the context of a computational physics lab - one of the modules in our master course- I wrote, with some collegues a classical numerical N-body intergator to simulate planetary orbits. The code can be found in this [repo](https://github.com/piscimarta/Chaos)
+* In the context of a computational physics lab -one of the modules in our master course- I wrote, together with some collegues, a classical numerical N-body intergator to simulate planetary orbits. The code can be found in this [repo](https://github.com/piscimarta/Chaos)
 * 🇳🇴 I spent the first semester of the academic year 2022-2023 at the [University of Oslo](https://www.uio.no/english/) where I took Computational physics 💻 (FYS 3150) course.
 
 
