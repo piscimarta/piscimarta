@@ -1,5 +1,7 @@
 ## Hi there 👋
-I'm Marta Piscitelli, a PhD candidate in _Theoretical and High-energy astrophysics_ 🌌 at the University of Tubingen!
+I'm Marta Piscitelli, a PhD candidate in _Theoretical and High-energy astrophysics_ 🌌 at the University of Tubingen! 
+
+My focus is studying the stability of magnetic fields in neutron stars 🌟
 * 📚 In my Master's thesis I've been working on Numerical Relativity simulations in alternative theories of gravity, specifically scalar-Gauss-Bonnet using [GRChombo](https://github.com/GRTLCollaboration/GRChombo) and [GRFolres](https://github.com/GRTLCollaboration/GRFolres).
 
 ### Some other research highlights:
